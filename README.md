@@ -1,1 +1,1 @@
-"# iot-academic-management" 
+# iot-academic-management
