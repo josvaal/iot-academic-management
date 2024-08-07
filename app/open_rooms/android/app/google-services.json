@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "360401967253",
+    "firebase_url": "https://open-rooms-default-rtdb.firebaseio.com",
+    "project_id": "open-rooms",
+    "storage_bucket": "open-rooms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360401967253:android:f0f4bc9f28d2bfce43a39c",
+        "android_client_info": {
+          "package_name": "com.josval.open_rooms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTOvlYfuCXjLQJ-R5BfY-6zQrXQdiSPH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
